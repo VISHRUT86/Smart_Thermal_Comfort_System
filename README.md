@@ -418,7 +418,7 @@ Smart-Thermal-Comfort-System/
 └── Presentation/
     └── MINI_PROJECT_EC-323_EMBEDDED_SYSTEM_DESIGN.pptx
 ```
-
+---
 ---
 
 ## 📄 License
