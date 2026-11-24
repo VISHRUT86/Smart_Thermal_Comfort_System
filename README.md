@@ -421,14 +421,6 @@ Smart-Thermal-Comfort-System/
 
 ---
 
-##  Owner
-
-**Brijesh Ahirwar**
-B.Tech, Electronics & Communication Engineering
-IIT (BHU) Varanasi
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** — feel free to use,
